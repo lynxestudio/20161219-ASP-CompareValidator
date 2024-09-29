@@ -12,13 +12,13 @@
 		</p>
 		<div><b>Fig 1 Utilizando el control CompareValidator para confirmar contraseñas.</b></div><br>
 		<div>
-		<IMG src="picture_library/compareValidator/fig1.png">
+		<IMG src="images/fig1.png">
 		</div><br>
 		<div><b>Fig 2 Si las contraseñas no son idénticas el control muestra un mensaje.</b></div><br>
 		<div>
-		<IMG src="picture_library/compareValidator/fig2.png">
+		<IMG src="images/fig2.png">
 		</div><br>
 		<div><b>Fig 3 Si las contraseñas coinciden, se envían los datos al servidor.</b></div><br>
 		<div>
-		<IMG src="picture_library/compareValidator/fig3.png">
+		<IMG src="images/fig3.png">
 		</div>
